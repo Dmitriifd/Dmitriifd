@@ -12,8 +12,8 @@
 ### Statistics:
 
 <div align="center">  
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=Dmitriifd&show_icons=true&theme=tokyonight" alt="Dmitriifd github stats" /> 
-  <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmitriifd&layout=compact&hide_border=true&title_color=FFF&text_color=FFF&bg_color=0d1117" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Dmitriifd&show_icons=true&theme=tokyonight" alt="Dmitriifd github stats" /> 
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dmitriifd&layout=compact&hide_border=true&title_color=FFF&text_color=FFF&bg_color=0d1117" />
 </div>
 
 <br />
