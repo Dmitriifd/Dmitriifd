@@ -36,4 +36,4 @@
 
 <br />
 
-### 📫 Connect with me: https://telegram.me/dmitrii_fd
+### 📫 Connect with me: https://t.me/dmitrii_fd
