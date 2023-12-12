@@ -5,7 +5,7 @@
 - 💪 I like to write code
 - 🥅 I am constantly learning new things
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning TypeScript
 
 <br />
 
